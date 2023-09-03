@@ -1,5 +1,7 @@
 # [GitHub] CodeDriver & Tech Hub
 
+​![GitHub Org's stars](https://img.shields.io/github/stars/CodeDriver-Of-Sanya)​
+
 ## 🐳牧码南山(Code Driver) 团队🐳
 
 我们是一支独立的，拥有强大活力与高效运作的青年技术团队——牧码南山(Code Driver)！🌏
